@@ -1,0 +1,12 @@
+.form-group{
+    margin: 10px 2px;
+}
+.form-group{
+    margin: 3px 0px;
+    padding: 5px;
+    border:none;
+    width: 200px;
+    border-radius: 3px;
+    display: block;
+    outline: none;
+}
